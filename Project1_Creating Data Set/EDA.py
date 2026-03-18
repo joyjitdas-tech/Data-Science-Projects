@@ -1,5 +1,4 @@
 #import all library
-import os
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -7,7 +6,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 #load data set
-df = pd.read_csv("Anime_Dataset.csv")
+df = pd.read_csv("anime_dataset.csv")
 
 
 
