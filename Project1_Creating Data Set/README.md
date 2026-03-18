@@ -34,6 +34,21 @@ The goal of the EDA is to:
 
 ---
 
+### Why to EDA
+  - Model building
+  - Analysis and reporting
+  - Validate assumptions
+  - Handling missing values
+  - feature engineering
+  - detecting outliers
+### Column Types
+- **Numerical** - episodes,score 
+- **Categorical** - genres, studios,status,year,type
+- **Mixed** - title,rating, duration
+### Episodes
+**conclusions**
+
+---
 ## How to Use
 
 1. Clone this repository or download the dataset.

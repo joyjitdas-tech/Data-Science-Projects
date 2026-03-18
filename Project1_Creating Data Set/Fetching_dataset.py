@@ -50,7 +50,7 @@ def get_all_anime_data():
 
     # Convert to DataFrame and save to CSV
     df = pd.DataFrame(all_data)
-    df.to_csv("anime_dataset.csv", index=False)
+    df.to_csv("Project1_Creating Data Set/Anime_Dataset.csv", index=False)
     print(f"\n Done! Saved {len(df)} anime to anime_dataset.csv")
 
 # Run the func
